@@ -1,0 +1,34 @@
+[
+ {
+ "name": "grilled cheese on toast",
+ "ingredients": [
+ { "item":"bread", "amount":"2", "unit":"slices"},
+ { "item":"cheese", "amount":"2", "unit":"slices"}
+ ]
+ }
+ ,
+ {
+ "name": "salad sandwich",
+ "ingredients": [
+ { "item":"bread", "amount":"500", "unit":"slices"},
+ { "item":"mixed salad", "amount":"100", "unit":"grams"}
+ ]
+ }
+ ,
+ {
+ "name": "peanut butter sandwich",
+ "ingredients": [
+ { "item":"bread", "amount":"2", "unit":"slices"},
+ { "item":"peanut butter", "amount":"100", "unit":"grams"}
+ ]
+ }
+ ,
+ {
+ "name": "peanut butter Jelly",
+ "ingredients": [
+ { "item":"bread", "amount":"2", "unit":"slices"},
+ { "item":"jelly", "amount":"10", "unit":"grams"},
+ { "item":"peanut butter", "amount":"100", "unit":"grams"}
+ ]
+ }
+]
